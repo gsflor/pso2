@@ -4,7 +4,7 @@
     import java.util.Random;
 
     public class Particula {
-
+        //testestesteste
     double[] xSol;
     double xFitnessValue;
     
